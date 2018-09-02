@@ -1,6 +1,6 @@
 # slack-touchbar-btt-preset
 This is a simple better touch tool preset for adding touch bar support to slack <br/>
-Feel free to add more features
+Feel free to add more features or improve the design.
 
 ## How it looks
 Global:
